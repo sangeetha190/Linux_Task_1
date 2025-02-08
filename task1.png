@@ -1,1 +1,6 @@
-
+✅ Created a directory (Linux_Task_1).
+✅ Navigated into it.
+✅ Created my_file.txt and another_file.txt with content.
+✅ Appended another_file.txt content to my_file.txt.
+✅ Displayed the updated content of my_file.txt.
+✅ Listed all files in the directory.
